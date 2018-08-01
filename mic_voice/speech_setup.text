@@ -1,0 +1,6 @@
+sudo pip3 install SpeechRecognition
+sudo -H pip3 install pyaudio
+sudo apt-get install -qq build-essential swig libpulse-dev
+sudo pip3 install pocketsphinx
+
+sudo apt-get install portaudio19-dev python3-all-dev && sudo pip3 install pyaudio
