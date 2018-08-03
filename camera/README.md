@@ -1,6 +1,6 @@
 # Python project (camera)
 
-this camera base on micorwave sensor.
+this project camera base on micorwave sensor.
 if someone moving camera will capture image and upload to firebase.
 also have script delete data more X days.
 
