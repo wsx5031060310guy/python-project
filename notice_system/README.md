@@ -1,12 +1,10 @@
-# Python project
+# Python project (notice system)
 
-keep updating the project.
-coming soon...
+this system support client & manager know about system work state.
 
 ## Built With
 
 * [Ubuntu](https://www.ubuntu.com/) - The OS used for system framework
-* [Arduino](https://www.arduino.cc/) - The hardware framework used
 * [Python](https://www.python.org/) - The software framework used for Linux
 * [MySQL](https://www.mysql.com/) - The Database framework used for system
 
