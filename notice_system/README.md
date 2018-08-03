@@ -1,6 +1,7 @@
 # Python project (notice system)
 
-this system support client & manager know about system work state.
+this system automatic check system Wi-Fi state let client & manager know about system work state.
+it can send email & slack message.
 
 ## Built With
 
