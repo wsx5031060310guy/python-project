@@ -1,14 +1,12 @@
-# Python project
+# Python project (mic voice)
 
-keep updating the project.
-coming soon...
+this code can record voice and save to file. 
+other one can detect and analysis voice translate to word.  
 
 ## Built With
 
 * [Ubuntu](https://www.ubuntu.com/) - The OS used for system framework
-* [Arduino](https://www.arduino.cc/) - The hardware framework used
 * [Python](https://www.python.org/) - The software framework used for Linux
-* [MySQL](https://www.mysql.com/) - The Database framework used for system
 
 
 ## Authors
