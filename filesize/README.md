@@ -1,6 +1,6 @@
 # Python project (file size)
 
-this is use for check file size.
+this project is use for check file size.
 
 ## Built With
 
