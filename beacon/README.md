@@ -1,7 +1,8 @@
-# Python project
+# Python project (Beacon)
 
-keep updating the project.
-coming soon...
+this project can get the data from beacon.
+also beacon connect many sensor.
+it can work perfect 24 hours / day.
 
 ## Built With
 
