@@ -3,6 +3,8 @@
 this system base on sensor data.
 system detail like this url:
 https://youtu.be/2F7R4OVlpUs
+and this url:
+http://www.trim-inc.com/mamaro
 
 ## Built With
 
