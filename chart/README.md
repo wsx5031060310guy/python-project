@@ -1,7 +1,6 @@
-# Python project
+# Python project (chart)
 
-keep updating the project.
-coming soon...
+this can show the data in the chart and real-time moving. 
 
 ## Built With
 
