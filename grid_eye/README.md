@@ -1,6 +1,6 @@
 # Python project (Grid-eye)
 
-this is use for delete grid-eye data more than X days from firebase.
+this project is use for delete grid-eye data more than X days from firebase.
 
 
 ## Built With
