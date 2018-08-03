@@ -1,7 +1,6 @@
-# Python project
+# Python project (download process)
 
-keep updating the project.
-coming soon...
+this can get the download process and how many percent already download.
 
 ## Built With
 
