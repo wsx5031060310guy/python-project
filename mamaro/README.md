@@ -1,7 +1,8 @@
-# Python project
+# Python project (mamaro)
 
-keep updating the project.
-coming soon...
+this system base on sensor data.
+system detail like this url:
+https://youtu.be/2F7R4OVlpUs
 
 ## Built With
 
@@ -9,7 +10,7 @@ coming soon...
 * [Arduino](https://www.arduino.cc/) - The hardware framework used
 * [Python](https://www.python.org/) - The software framework used for Linux
 * [MySQL](https://www.mysql.com/) - The Database framework used for system
-
+* [Firebase](https://firebase.google.com/) - The Database framework used for real time request
 
 ## Authors
 
