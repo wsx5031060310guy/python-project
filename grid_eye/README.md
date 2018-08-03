@@ -1,7 +1,7 @@
-# Python project
+# Python project (Grid-eye)
 
-keep updating the project.
-coming soon...
+this is use for delete grid-eye data more than X days from firebase.
+
 
 ## Built With
 
