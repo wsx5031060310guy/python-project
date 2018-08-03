@@ -1,6 +1,6 @@
 # Python project (mic voice)
 
-this code can record voice and save to file. 
+this project can record voice and save to file. 
 other one can detect and analysis voice translate to word.  
 
 ## Built With
