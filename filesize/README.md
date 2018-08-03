@@ -1,7 +1,6 @@
-# Python project
+# Python project (file size)
 
-keep updating the project.
-coming soon...
+this is use for check file size.
 
 ## Built With
 
