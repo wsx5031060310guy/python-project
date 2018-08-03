@@ -1,6 +1,6 @@
 # Python project (chart)
 
-this can show the data in the chart and real-time moving. 
+this projct can show the data in the chart and real-time moving. 
 
 ## Built With
 
