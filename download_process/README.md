@@ -1,6 +1,6 @@
 # Python project (download process)
 
-this can get the download process and how many percent already download.
+this project can get the download process and how many percent already download.
 
 ## Built With
 
